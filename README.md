@@ -1,4 +1,6 @@
-# Cholesterol Screening & Lifestyle Intervention Analysis
+![Cholesterol Screening & Lifestyle Intervention Analysis Banner](Code_Generated_Image.png)
+
+# Cholesterol Screening & Lifestyle Intervention Analysis# Cholesterol Screening & Lifestyle Intervention Analysis
 
 ## Project Overview
 This project is a Grade 12 Independent Biology Investigatory Project conducted to study a real clinical cholesterol report and analyze the impact of **diet control, exercise, and lifestyle changes** on a patient’s lipid profile over time. The study evaluates trends in **total cholesterol, HDL, LDL, triglycerides, and non-HDL cholesterol** using multiple clinical reports collected across a one-year period.
