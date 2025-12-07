@@ -1,4 +1,4 @@
-![Cholesterol Screening & Lifestyle Intervention Analysis Banner](Code_Generated_Image.png)
+![Cholesterol Screening & Lifestyle Intervention Analysis Banner](image/Code_Generated_Image.png)
 
 # Cholesterol Screening & Lifestyle Intervention Analysis# Cholesterol Screening & Lifestyle Intervention Analysis
 
